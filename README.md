@@ -1,2 +1,1 @@
-# learn_dart
-Learning dart language from dicoding
+A simple command-line application.
